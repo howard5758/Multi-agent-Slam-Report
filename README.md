@@ -1,2 +1,2 @@
 # Multi-agent-Slam-Report
-Report in PDF
+Project on improving multi-agent particle filter slam performance. Report in PDF.
